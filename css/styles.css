@@ -129,6 +129,8 @@ img {
 
 .hero {
   text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
   background-color: var(--footer-color);
 }
 
